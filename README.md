@@ -1,5 +1,6 @@
 # Fruit-Recogniser
 This project demonstrates how to build and train a deep learning model to classify different types of fruits from images. The model utilizes a pre-trained Convolutional Neural Network (CNN) and achieves good accuracy in recognizing 33 distinct fruit classes.
+Model-https://drive.google.com/file/d/1k94wbHiS489-xlOjx7QXPPsIc8Fc7Efh/view?usp=drive_link
 # Dataset Source
 The dataset used for this project is the Fruit Recognition dataset, available on Kaggle. It contains a comprehensive collection of fruit images, organized into a training set with 33 classes and an unlabeled test set. The dataset's structure, with subdirectories for each fruit class, is ideal for image classification tasks.
 Dataset(URL: https://www.kaggle.com/datasets/sshikamaru/fruit-recognition)
@@ -34,4 +35,3 @@ The model is compiled with the Adam optimizer and a small learning rate of 0.000
 # Performance Achieved
 Due to the limited time available for this project, the model's final performance metrics did not reach their full potential. The training process resulted in an accuracy of only 3% on both the validation and test sets, eventhough 90% above shown while running the epochs
 # Had more time been available, I am confident that the model's performance could be improved.Thank You!
-Model-https://drive.google.com/file/d/1k94wbHiS489-xlOjx7QXPPsIc8Fc7Efh/view?usp=drive_link
