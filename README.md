@@ -35,7 +35,8 @@ This structure allows the model to quickly and effectively adapt to the new task
 The model is compiled with the Adam optimizer and a small learning rate of 0.0001, which helps in fine-tuning the new layers without disrupting the pre-trained weights. The categorical_crossentropy loss function is used, which is standard for multi-class classification. The training process uses EarlyStopping with a patience of 5, which automatically stops training if the validation loss does not improve, preventing overfitting and saving the best performing model.
 # Performance Achieved
 Due to the limited time available for this project, the model's final performance metrics did not reach their full potential. The training process resulted in an accuracy of only 3% on both the validation and test sets, eventhough 90% above shown while running the epochs
-# Had more time been available, I am confident that the model's performance could be improved.Thank You!
 <img width="1405" height="492" alt="Screenshot 2025-08-30 034246" src="https://github.com/user-attachments/assets/008615c6-dc86-4396-8041-851b0557b1d0" />
 <img width="1438" height="528" alt="Screenshot 2025-08-30 034224" src="https://github.com/user-attachments/assets/1293ce51-772d-4c72-9e6c-a01a56102914" />
 <img width="1452" height="529" alt="Screenshot 2025-08-30 034155" src="https://github.com/user-attachments/assets/63ddc1fe-f8be-4e04-9770-7b77684bac53" />
+
+# Had more time been available, I am confident that the model's performance could be improved.Thank You!
