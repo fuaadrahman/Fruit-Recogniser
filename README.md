@@ -36,7 +36,7 @@ The model is compiled with the Adam optimizer and a small learning rate of 0.000
 # Performance Achieved
 Due to the limited time available for this project, the model's final performance metrics did not reach their full potential. The training process resulted in an accuracy of only 3% on both the validation and test sets, eventhough 90% above shown while running the epochs
 
-sample pictures of model prediction-
+# Sample pictures of model prediction-
 <img width="1405" height="492" alt="Screenshot 2025-08-30 034246" src="https://github.com/user-attachments/assets/008615c6-dc86-4396-8041-851b0557b1d0" />
 <img width="1438" height="528" alt="Screenshot 2025-08-30 034224" src="https://github.com/user-attachments/assets/1293ce51-772d-4c72-9e6c-a01a56102914" />
 <img width="1452" height="529" alt="Screenshot 2025-08-30 034155" src="https://github.com/user-attachments/assets/63ddc1fe-f8be-4e04-9770-7b77684bac53" />
